@@ -1,1 +1,1 @@
-# yeast_polarization_bistability
+*** Model of Yeast Polarization and Bistability***
